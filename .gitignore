@@ -1,0 +1,5 @@
+*.csr
+*.key
+*.yml
+*.cer
+*.pem
